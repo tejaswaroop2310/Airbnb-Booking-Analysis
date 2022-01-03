@@ -48,4 +48,4 @@ __Data Visualizations__ : This is  an essential step as the result analysed from
 
 ## Contributer
 
-** Team Leader: Teja Swaroop Piduguralla (https://github.com/tejaswaroop2310)**
+ Teja Swaroop Piduguralla (https://github.com/tejaswaroop2310)
